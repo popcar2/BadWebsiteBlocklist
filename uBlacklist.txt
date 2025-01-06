@@ -7,3 +7,16 @@
 *://*.i5apps.com/*
 *://*.masteryourtech.com/*
 *://*.umatechnology.org/*
+
+# ---------- Clickbait, Misleading, Ad Websites (Articles made to sell products, etc)
+*://*.minitool.com/partition-disk/*
+*://*.minitool.com/data-recovery/*
+*://*.minitool.com/backup-tips/*
+*://*.minitool.com/boost-pc/*
+*://*.minitool.com/edit-pdf/*
+*://*.minitool.com/moviemaker/*
+*://*.minitool.com/youtube/*
+*://*.minitool.com/video-converter/*
+*://*.minitool.com/ios-recovery/*
+*://*.minitool.com/android-recovery/*
+*://*.minitool.com/lib/*
