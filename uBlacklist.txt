@@ -35,6 +35,7 @@
 *://*.easeus.com/*
 *://*.ifunia.com/resource/*
 *://*.comparitech.com/*
+*://*.ccleaner.com/knowledge/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
