@@ -9,6 +9,7 @@
 *://*.umatechnology.org/*
 *://*.robots.net/*
 *://*.itechhacks.com/*
+*://*.gbtimes.com/*
 
 # ---------- Clickbait, Misleading, Ad Websites (Articles made to sell products, etc)
 
