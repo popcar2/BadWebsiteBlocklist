@@ -39,6 +39,7 @@
 *://*.ccleaner.com/knowledge/*
 *://blog.avast.com/*
 *://*.mcafee.com/blogs/*
+*://*.norton.com/blog/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
