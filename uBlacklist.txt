@@ -1,1 +1,9 @@
 # ---------- Low Effort Articles (AI spam, copy-pasting other articles, etc)
+
+*://*.solveyourtech.com/*
+*://*.mefmobile.org/*
+*://*.supportyourtech.com/*
+*://*.live2tech.com/*
+*://*.i5apps.com/*
+*://*.masteryourtech.com/*
+*://*.umatechnology.org/*
