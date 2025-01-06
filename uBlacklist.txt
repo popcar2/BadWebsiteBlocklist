@@ -31,3 +31,4 @@
 *://*.partitionwizard.com/news/*
 
 *://*.easeus.com/*
+*://*.ifunia.com/resource/*
