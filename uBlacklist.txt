@@ -37,3 +37,4 @@
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
 *://*.softonic.com/*
+*://download.cnet.com/*
