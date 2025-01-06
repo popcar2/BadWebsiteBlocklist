@@ -29,3 +29,5 @@
 *://*.partitionwizard.com/disk-recovery/*
 *://*.partitionwizard.com/clone-disk/*
 *://*.partitionwizard.com/news/*
+
+*://*.easeus.com/*
