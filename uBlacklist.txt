@@ -7,6 +7,7 @@
 *://*.i5apps.com/*
 *://*.masteryourtech.com/*
 *://*.umatechnology.org/*
+*://*.robots.net/*
 
 # ---------- Clickbait, Misleading, Ad Websites (Articles made to sell products, etc)
 
