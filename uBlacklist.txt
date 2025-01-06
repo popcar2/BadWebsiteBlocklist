@@ -38,6 +38,7 @@
 *://*.comparitech.com/*
 *://*.ccleaner.com/knowledge/*
 *://blog.avast.com/*
+*://*.mcafee.com/blogs/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
