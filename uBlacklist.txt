@@ -37,6 +37,7 @@
 *://*.ifunia.com/resource/*
 *://*.comparitech.com/*
 *://*.ccleaner.com/knowledge/*
+*://blog.avast.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
