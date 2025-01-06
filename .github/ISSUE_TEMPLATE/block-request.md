@@ -2,12 +2,14 @@
 name: Block Request
 about: Add these websites to the blacklist
 title: "[Block Request] - (WEBSITE NAMES HERE)"
-labels: ''
+labels: Block Request
 assignees: ''
 
 ---
 
-[Domain link here]
+## Domain(s) to block
+
+* [Domain link(s) here]
 
 ## Reasoning
 
