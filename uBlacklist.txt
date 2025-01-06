@@ -20,3 +20,4 @@
 *://*.minitool.com/ios-recovery/*
 *://*.minitool.com/android-recovery/*
 *://*.minitool.com/lib/*
+*://*.minitool.com/news/*
