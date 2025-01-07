@@ -11,6 +11,7 @@
 *://*.itechhacks.com/*
 *://*.gbtimes.com/*
 *://*.1v9.gg/blog/*
+*://*.msn.com/*
 
 # ---------- Clickbait, Misleading, Ad Websites (Articles made to sell products, etc)
 
