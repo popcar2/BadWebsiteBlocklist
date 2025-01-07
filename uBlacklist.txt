@@ -13,7 +13,7 @@
 *://*.1v9.gg/blog/*
 *://*.msn.com/*
 
-# ---------- Clickbait, Misleading, Ad Websites (Articles made to sell products, etc)
+# ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
 *://*.minitool.com/partition-disk/*
 *://*.minitool.com/data-recovery/*
@@ -47,6 +47,7 @@
 *://*.ionos.*/digitalguide/*
 *://*.kaspersky.*/blog/*
 *://*.avira.com/*/blog/*
+*://*.longshot.ai/blog/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
