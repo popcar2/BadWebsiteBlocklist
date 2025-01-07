@@ -78,6 +78,7 @@
 *://*.kapwing.com/resources/*
 *://*.buzzflick.com/*
 *://*.shopify.com/blog/*
+*://*.shopify.com/*/blog/*
 *://*.justcreative.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
