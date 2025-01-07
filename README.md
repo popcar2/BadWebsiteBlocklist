@@ -2,12 +2,12 @@
 
 This is a blocklist that intends to remove garbage websites from search results, such as AI-generated articles, low-effort spam sites, and thinly-veiled advertisements acting as information.
 
-The biggest goal of this repo is to try to be as organized as possible, every website that gets blocked has an issue related to it explaining why it was added to the list for future reference.
-
 <div align="center">
-  Comparison with the blocklist vs without 
+  <sub>Comparison with the blocklist vs without - AI & SEO spam is removed to make room for good articles</sub>
   <img src="https://files.catbox.moe/tyecc6.avif" type="image/avif" alt="Animated AVIF showing a comparison of the blocklist on with the blocklist off." width="75%" />
 </div>
+
+Another big goal of this repo is to try to be as organized as possible, every website that gets blocked has an issue related to it explaining why it was added to the list for future reference.
 
 ## How to use
 
