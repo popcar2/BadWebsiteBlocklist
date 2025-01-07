@@ -3,7 +3,10 @@
 This is a blocklist that intends to remove garbage websites from search results, such as AI-generated articles, low-effort spam sites, and thinly-veiled advertisements acting as information.
 
 <div align="center">
-  <sub>Comparison with the blocklist vs without - AI & SEO spam is removed to make room for good articles</sub>
+  <b>Comparison with the blocklist vs without</b> 
+  
+  (AI & SEO spam are removed to make room for good articles)
+  
   <img src="https://files.catbox.moe/tyecc6.avif" type="image/avif" alt="Animated AVIF showing a comparison of the blocklist on with the blocklist off." width="75%" />
 </div>
 
