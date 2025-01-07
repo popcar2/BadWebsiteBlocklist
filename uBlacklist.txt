@@ -50,6 +50,7 @@
 *://*.longshot.ai/blog/*
 *://*.safetydetectives.com/*
 *://*.kapwing.com/resources/*
+*://*.buzzflick.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
