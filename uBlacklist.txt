@@ -47,6 +47,7 @@
 
 *://*.ionos.com/digitalguide/*
 *://*.ionos.com/*/digitalguide/*
+*://*.ionos.blog/*
 *://*.ionos.de/digitalguide/*
 *://*.ionos.co.uk/digitalguide/*
 *://*.ionos.es/digitalguide/*
