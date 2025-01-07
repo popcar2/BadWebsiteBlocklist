@@ -46,6 +46,7 @@
 *://*.nordvpn.com/*/blog/*
 
 *://*.ionos.com/digitalguide/*
+*://*.ionos.com/*/digitalguide/*
 *://*.ionos.de/digitalguide/*
 *://*.ionos.co.uk/digitalguide/*
 *://*.ionos.es/digitalguide/*
