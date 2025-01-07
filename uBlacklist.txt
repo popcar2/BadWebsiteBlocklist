@@ -49,6 +49,7 @@
 *://*.avira.com/*/blog/*
 *://*.longshot.ai/blog/*
 *://*.safetydetectives.com/*
+*://*.kapwing.com/resources/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
