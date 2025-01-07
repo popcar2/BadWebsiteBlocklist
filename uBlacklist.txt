@@ -43,6 +43,7 @@
 *://*.mcafee.com/blogs/*
 *://*.norton.com/blog/*
 *://*.nordvpn.com/blog/*
+*://*.ionos.com/digitalguide/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
