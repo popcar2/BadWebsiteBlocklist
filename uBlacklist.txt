@@ -82,6 +82,7 @@
 *://*.shopify.com/blog/*
 *://*.shopify.com/*/blog/*
 *://*.justcreative.com/*
+*://*.playbite.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
