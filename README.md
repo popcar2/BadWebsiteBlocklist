@@ -1,8 +1,13 @@
 # Bad Website Blocklist
 
-This is a blocklist that intends to remove garbage websites from search results, such as AI-generated articles and low-effort spam sites. Relies on the [uBlacklist browser extension](https://iorate.github.io/ublacklist/docs).
+This is a blocklist that intends to remove garbage websites from search results, such as AI-generated articles, low-effort spam sites, and thinly-veiled advertisements acting as information.
 
 The biggest goal of this repo is to try to be as organized as possible, every website that gets blocked has an issue related to it explaining why it was added to the list for future reference.
+
+<div align="center">
+  Comparison with the blocklist vs without 
+  <img src="https://files.catbox.moe/tyecc6.avif" type="image/avif" alt="Animated AVIF showing a comparison of the blocklist on with the blocklist off." width="75%" />
+</div>
 
 ## How to use
 
@@ -12,12 +17,12 @@ The biggest goal of this repo is to try to be as organized as possible, every we
 4. Scroll down to subscriptions and click "Add a subscription"
 5. Give it a name & add this as the URL: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
 
-And that's it. The websites in the list should no longer appear on when searching!
+And that's it. The websites in the list should no longer appear on when searching! The subscription means the blocklist will always stay up to date as well.
 
 ## Contributing
 
-If you'd like to add a website to the list, [create an issue](https://github.com/popcar2/BadWebsiteBlocklist/issues/new/choose) then wait for me to check its validity and add it to the list (or create a pull request to close that issue then wait for me to review it).
+If you'd like to add a website to the list, [create an issue](https://github.com/popcar2/BadWebsiteBlocklist/issues/new/choose) then wait for me to check its validity and add it to the list (or create a pull request to close that issue then wait for me to review it). Thanks.
 
 ---
 
-This was inspired by the great effort of [the huge AI blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist), but is not exclusive or focused at banning AI websites specifically.
+This was inspired by the great effort of [the huge AI blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) and my boiling hatred to bad tech support articles.
