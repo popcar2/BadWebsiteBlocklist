@@ -99,6 +99,7 @@
 *://*.security.org/*
 *://*.avg.com/*/signal/*
 *://*.ibuypower.com/blog/*
+*://*.simplilearn.com/*article*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
