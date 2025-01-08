@@ -16,6 +16,7 @@
 *://*.thecoderpedia.com/*
 *://*.howtoapps.com/*
 *://*.techlivo.com/*
+*://*.bizknowledges.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
