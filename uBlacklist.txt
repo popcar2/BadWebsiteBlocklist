@@ -95,6 +95,7 @@
 *://*.tweaklibrary.com/*
 *://*.techcommuters.com/*
 *://*.mainleaf.com/*
+*://*.bitdegree.org/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
