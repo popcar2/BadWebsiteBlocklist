@@ -94,6 +94,7 @@
 *://*.elevenlabs.io/blog/*
 *://*.tweaklibrary.com/*
 *://*.techcommuters.com/*
+*://*.mainleaf.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
