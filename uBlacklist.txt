@@ -92,6 +92,7 @@
 *://*.diskpart.com/data-recovery/*
 *://*.elevenlabs.io/blog/*
 *://*.tweaklibrary.com/*
+*://*.techcommuters.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
