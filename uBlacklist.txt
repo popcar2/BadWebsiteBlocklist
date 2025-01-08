@@ -15,6 +15,7 @@
 *://*.toxigon.com/*
 *://*.thecoderpedia.com/*
 *://*.howtoapps.com/*
+*://*.techlivo.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
