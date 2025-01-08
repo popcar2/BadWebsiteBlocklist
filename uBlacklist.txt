@@ -13,6 +13,7 @@
 *://*.1v9.gg/blog/*
 *://*.msn.com/*
 *://*.toxigon.com/*
+*://*.thecoderpedia.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
