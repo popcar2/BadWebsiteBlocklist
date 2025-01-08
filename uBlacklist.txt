@@ -102,3 +102,4 @@
 
 *://*.softonic.com/*
 *://download.cnet.com/*
+*://*.ccm.net/*
