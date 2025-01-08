@@ -10,7 +10,7 @@ This is a blocklist that intends to remove garbage websites from search results,
   <img src="https://files.catbox.moe/tyecc6.avif" type="image/avif" alt="Animated AVIF showing a comparison of the blocklist on with the blocklist off." width="75%" />
 </div>
 
-Another big goal of this repo is to try to be as organized as possible, every website that gets blocked has an issue related to it explaining why it was added to the list for future reference.
+Another big goal of this repo is to try to be as organized as possible, [every website that gets blocked has an issue](https://github.com/popcar2/BadWebsiteBlocklist/issues?q=is%3Aissue+is%3Aclosed) explaining why it was added to the list for future reference.
 
 ## How to use
 
