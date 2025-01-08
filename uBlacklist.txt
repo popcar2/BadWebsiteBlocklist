@@ -18,6 +18,7 @@
 *://*.techlivo.com/*
 *://*.bizknowledges.com/*
 *://*.earthweb.com/blog/*
+*://*.appletoo.us/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
