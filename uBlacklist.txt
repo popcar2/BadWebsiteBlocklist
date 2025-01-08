@@ -17,6 +17,7 @@
 *://*.howtoapps.com/*
 *://*.techlivo.com/*
 *://*.bizknowledges.com/*
+*://*.earthweb.com/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
@@ -90,7 +91,7 @@
 *://*.playbite.com/*
 *://*.diskpart.com/data-recovery/*
 *://*.elevenlabs.io/blog/*
-*://*.earthweb.com/blog/*
+*://*.tweaklibrary.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
