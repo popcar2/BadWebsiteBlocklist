@@ -98,6 +98,7 @@
 *://*.bitdegree.org/*
 *://*.security.org/*
 *://*.avg.com/*/signal/*
+*://*.ibuypower.com/blog/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
