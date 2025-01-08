@@ -83,6 +83,7 @@
 *://*.shopify.com/*/blog/*
 *://*.justcreative.com/*
 *://*.playbite.com/*
+*://*.diskpart.com/data-recovery/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
