@@ -105,6 +105,17 @@
 *://*.simplilearn.com/*article*
 *://*.stellarinfo.com/blog/*
 
+*://*.gg.deals/blog/*
+*://*.gg.deals/*news*/*
+*://*.gg.deals/deal/*
+*://*.gg.deals/freebie/*
+*://*.gg.deals/wallet-friendly/*
+*://*.gg.deals/new-game/*
+*://*.gg.deals/pre-order/*
+*://*.gg.deals/announcement/*
+*://*.gg.deals/giveaway/*
+*://*.gg.deals/bundle/*
+
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
 *://*.softonic.com/*
