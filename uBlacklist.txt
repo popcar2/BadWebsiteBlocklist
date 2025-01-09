@@ -19,6 +19,7 @@
 *://*.bizknowledges.com/*
 *://*.earthweb.com/blog/*
 *://*.appletoo.us/*
+*://*.chargerblog.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
