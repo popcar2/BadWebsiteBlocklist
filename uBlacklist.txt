@@ -22,6 +22,7 @@
 *://*.chargerblog.com/*
 *://*.batteryspotlight.com/*
 *://*.ofzenandcomputing.com/*
+*://*.techwithtech.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
