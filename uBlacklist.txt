@@ -122,6 +122,7 @@
 *://*.steelseries.com/blog/*
 *://*.eloboss.net/blog/*
 *://*.overgear.com/guides/*
+*://*.turboboost.gg/article/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
