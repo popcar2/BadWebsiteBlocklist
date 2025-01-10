@@ -119,6 +119,8 @@
 *://*.gg.deals/bundle/*
 *://*.gg.deals/games/*
 
+*://*.steelseries.com/blog/*
+
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
 *://*.softonic.com/*
