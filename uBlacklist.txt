@@ -125,6 +125,7 @@
 *://*.turboboost.gg/article/*
 *://*.semrush.com/blog/*
 *://*.ubackup.com/*
+*://*.hdd-tool.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
