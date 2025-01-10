@@ -124,6 +124,7 @@
 *://*.overgear.com/guides/*
 *://*.turboboost.gg/article/*
 *://*.semrush.com/blog/*
+*://*.ubackup.com/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
