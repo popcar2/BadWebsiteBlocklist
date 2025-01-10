@@ -129,6 +129,12 @@
 *://*.jetico.com/blog/*
 *://*.systweak.com/blogs/*
 
+*://*.systoolsgroup.com/how-to/*
+*://*.systoolsgroup.com/blog/*
+*://*.systoolsgroup.com/import/*
+*://*.systoolsgroup.com/solutions/*
+*://blog.systoolsgroup.com/*
+
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
 *://*.softonic.com/*
