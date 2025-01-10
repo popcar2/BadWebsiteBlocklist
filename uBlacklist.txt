@@ -95,7 +95,7 @@
 *://*.shopify.com/*/blog/*
 *://*.justcreative.com/*
 *://*.playbite.com/*
-*://*.diskpart.com/data-recovery/*
+*://*.diskpart.com/*
 *://*.elevenlabs.io/blog/*
 *://*.tweaklibrary.com/*
 *://*.techcommuters.com/*
