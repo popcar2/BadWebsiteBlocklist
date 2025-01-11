@@ -138,6 +138,7 @@
 
 *://*.bluestacks.com/blog/*
 *://*.shokz.com/blogs/*
+*://*.murf.ai/resources/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
