@@ -24,6 +24,7 @@
 *://*.ofzenandcomputing.com/*
 *://*.techwithtech.com/*
 *://*.steambase.io/*
+*://*.androiddata-recovery.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
