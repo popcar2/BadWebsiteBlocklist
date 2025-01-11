@@ -136,6 +136,8 @@
 *://*.systoolsgroup.com/solutions/*
 *://blog.systoolsgroup.com/*
 
+*://*.bluestacks.com/blog/*
+
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
 *://*.softonic.com/*
