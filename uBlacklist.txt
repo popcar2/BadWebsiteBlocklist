@@ -137,6 +137,7 @@
 *://blog.systoolsgroup.com/*
 
 *://*.bluestacks.com/blog/*
+*://*.shokz.com/blogs/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
