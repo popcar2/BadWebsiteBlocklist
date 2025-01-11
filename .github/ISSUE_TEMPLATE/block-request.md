@@ -2,7 +2,7 @@
 name: Block Request
 about: Add these websites to the blacklist
 title: "[Block Request] - (WEBSITE NAMES HERE)"
-labels: Block Request, Unblock Request
+labels: Block Request
 assignees: ''
 
 ---
