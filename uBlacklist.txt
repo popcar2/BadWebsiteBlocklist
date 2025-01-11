@@ -25,6 +25,7 @@
 *://*.techwithtech.com/*
 *://*.steambase.io/*
 *://*.androiddata-recovery.com/*
+*://*.mediupdates.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
