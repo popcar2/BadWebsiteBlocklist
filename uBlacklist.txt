@@ -26,6 +26,7 @@
 *://*.steambase.io/*
 *://*.androiddata-recovery.com/*
 *://*.mediupdates.com/*
+*://*.itigic.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
