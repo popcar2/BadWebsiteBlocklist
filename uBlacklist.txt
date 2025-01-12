@@ -148,6 +148,7 @@
 *://*.aichatmax.com/blog/*
 *://*.smallpdf.com/blog/*
 *://*.recoverhdd.com/blog/*
+*://*.webflow.com/blog/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
