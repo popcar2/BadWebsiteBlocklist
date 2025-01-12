@@ -29,6 +29,7 @@
 *://*.itigic.com/*
 *://*.researchsnipers.com/*
 *://*.amilma.digital/blog/*
+*://*.madpenguin.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
