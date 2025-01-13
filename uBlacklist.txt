@@ -30,6 +30,7 @@
 *://*.researchsnipers.com/*
 *://*.amilma.digital/blog/*
 *://*.madpenguin.org/*
+*://*.techecholabs.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
