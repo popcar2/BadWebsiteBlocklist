@@ -153,6 +153,7 @@
 *://*.webflow.com/blog/*
 *://*.maono.com/blogs/*
 *://*.team-gpt.com/blog/*
+*://*.mediamister.com/blog/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
