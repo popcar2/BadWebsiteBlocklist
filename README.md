@@ -24,7 +24,7 @@ And that's it. The websites in the list should no longer appear on when searchin
 
 ## Contributing
 
-If you'd like to add a website to the list, [create an issue](https://github.com/popcar2/BadWebsiteBlocklist/issues/new/choose) then wait for me to check its validity and add it to the list (or create a pull request to close that issue then wait for me to review it). Thanks.
+If you'd like to add a website to the list, [create an issue](https://github.com/popcar2/BadWebsiteBlocklist/issues/new/choose). For more info, check out [the contributing guide](https://github.com/popcar2/BadWebsiteBlocklist/blob/main/CONTRIBUTING.md). Thanks.
 
 ---
 
