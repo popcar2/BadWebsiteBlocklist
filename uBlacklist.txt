@@ -156,6 +156,7 @@
 *://*.team-gpt.com/blog/*
 *://*.mediamister.com/blog/*
 *://*.getafollower.com/blog/*
+*://*.drivereasy.com/knowledge/*
 
 # ---------- Viruses, Misleading Adware, Fake Versions of Real Websites
 
