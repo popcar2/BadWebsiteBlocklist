@@ -32,6 +32,7 @@
 *://*.madpenguin.org/*
 *://*.techecholabs.com/*
 *://*.teabrands.org/*
+*://*.iliputer.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
