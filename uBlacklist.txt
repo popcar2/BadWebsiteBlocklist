@@ -34,6 +34,7 @@
 *://*.teabrands.org/*
 *://*.iliputer.com/*
 *://*.copyprogramming.com/*
+*://*.devsne.vn/public/solution/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
