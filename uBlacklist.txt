@@ -35,6 +35,7 @@
 *://*.iliputer.com/*
 *://*.copyprogramming.com/*
 *://*.devsne.vn/public/solution/*
+*://*.socketloop.com/tutorials/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
