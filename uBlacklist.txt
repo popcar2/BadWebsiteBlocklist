@@ -36,6 +36,7 @@
 *://*.copyprogramming.com/*
 *://*.devsne.vn/public/solution/*
 *://*.socketloop.com/tutorials/*
+*://*.windowsbulletin.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
