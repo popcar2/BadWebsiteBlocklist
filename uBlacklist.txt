@@ -164,6 +164,10 @@
 *://*.drivereasy.com/knowledge/*
 *://*.adguard.com/*/blog/*
 
+*://*.fortect.com/windows-optimization-tips/*
+*://*.fortect.com/fix-dll-errors/*
+*://*.fortect.com/how-to-guides/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
