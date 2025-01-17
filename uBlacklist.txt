@@ -168,6 +168,8 @@
 *://*.fortect.com/fix-dll-errors/*
 *://*.fortect.com/how-to-guides/*
 
+*://*.wizcase.com/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
