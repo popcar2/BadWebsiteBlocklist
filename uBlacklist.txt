@@ -38,6 +38,7 @@
 *://*.socketloop.com/tutorials/*
 *://*.windowsbulletin.com/*
 *://*.technogenz.com/*
+*://*.techpluto.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
