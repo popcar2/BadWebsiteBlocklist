@@ -39,6 +39,7 @@
 *://*.windowsbulletin.com/*
 *://*.technogenz.com/*
 *://*.techpluto.com/*
+*://*.befitnatic.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
