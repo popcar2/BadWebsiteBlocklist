@@ -173,6 +173,7 @@
 
 *://*.wizcase.com/*
 *://*.xvpn.io/blog/*
+*://*.wondershare.com/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
