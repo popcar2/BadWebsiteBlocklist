@@ -169,6 +169,7 @@
 *://*.fortect.com/how-to-guides/*
 
 *://*.wizcase.com/*
+*://*.xvpn.io/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
