@@ -43,6 +43,7 @@
 *://*.findthisbest.com/*
 *://*.eeasy4u.com/*
 *://*.dockuniverse.com/*
+*://*.9meters.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
