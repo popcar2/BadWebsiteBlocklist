@@ -42,6 +42,7 @@
 *://*.befitnatic.com/*
 *://*.findthisbest.com/*
 *://*.eeasy4u.com/*
+*://*.dockuniverse.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
