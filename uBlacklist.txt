@@ -41,6 +41,7 @@
 *://*.techpluto.com/*
 *://*.befitnatic.com/*
 *://*.findthisbest.com/*
+*://*.eeasy4u.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
