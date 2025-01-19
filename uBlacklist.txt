@@ -178,7 +178,19 @@
 *://*.wizcase.com/*
 *://*.xvpn.io/blog/*
 *://*.wondershare.com/*
+
 *://*.imobie.com/support/*
+*://*.imobie.com/*/support/*
+*://*.imobie.com/iphone-unlocker/*
+*://*.imobie.com/icloud-unlock/*
+*://*.imobie.com/ios-system-recovery/*
+*://*.imobie.com/android-system-recovery/*
+*://*.imobie.com/android-unlock/*
+*://*.imobie.com/app-management/*
+*://*.imobie.com/ios-update/*
+*://*.imobie.com/screen-mirror/*
+*://*.imobie.com/voice-changer/*
+*://*.imobie.com/video-enhancer/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
