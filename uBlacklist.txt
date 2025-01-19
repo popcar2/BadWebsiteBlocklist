@@ -178,6 +178,7 @@
 *://*.wizcase.com/*
 *://*.xvpn.io/blog/*
 *://*.wondershare.com/*
+*://*.imobie.com/support/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
