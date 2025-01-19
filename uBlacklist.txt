@@ -192,6 +192,8 @@
 *://*.imobie.com/voice-changer/*
 *://*.imobie.com/video-enhancer/*
 
+*://*.hetmanrecovery.com/recovery_news/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
