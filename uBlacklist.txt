@@ -44,6 +44,7 @@
 *://*.eeasy4u.com/*
 *://*.dockuniverse.com/*
 *://*.9meters.com/*
+*://*.weetechsolution.com/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
