@@ -200,6 +200,10 @@
 *://*.workintool.com/*tips/*
 *://*.visme.co/blog/*
 
+*://*.movavi.com/learning-portal/*
+*://*.movavi.com/support/*
+*://*.movavi.io/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
