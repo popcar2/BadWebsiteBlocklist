@@ -205,6 +205,7 @@
 *://*.movavi.io/*
 
 *://*.rav.ai/blog/*
+*://*.blurvideo.ai/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
