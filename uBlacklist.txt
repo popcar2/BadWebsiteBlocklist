@@ -198,6 +198,7 @@
 *://*.datanumen.com/*/blogs/*
 *://*.riverside.fm/blog/*
 *://*.workintool.com/*tips/*
+*://*.visme.co/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
