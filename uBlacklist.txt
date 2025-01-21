@@ -204,6 +204,8 @@
 *://*.movavi.com/support/*
 *://*.movavi.io/*
 
+*://*.rav.ai/blog/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
