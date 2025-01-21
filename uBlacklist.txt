@@ -206,6 +206,7 @@
 
 *://*.rav.ai/blog/*
 *://*.blurvideo.ai/blog/*
+*://*.screenstory.io/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
