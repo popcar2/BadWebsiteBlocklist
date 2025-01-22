@@ -207,6 +207,7 @@
 *://*.rav.ai/blog/*
 *://*.blurvideo.ai/blog/*
 *://*.screenstory.io/blog/*
+*://blog.eklipse.gg/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
