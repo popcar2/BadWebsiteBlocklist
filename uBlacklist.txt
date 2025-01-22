@@ -219,6 +219,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.screenstory.io/blog/*
 *://blog.eklipse.gg/*
 *://*.reasonlabs.com/blog/*
+*://*.veepn.com/blog/*
+*://*.veepn.com/*/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
