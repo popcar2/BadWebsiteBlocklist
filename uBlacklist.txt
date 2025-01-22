@@ -208,6 +208,7 @@
 *://*.blurvideo.ai/blog/*
 *://*.screenstory.io/blog/*
 *://blog.eklipse.gg/*
+*://*.reasonlabs.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
