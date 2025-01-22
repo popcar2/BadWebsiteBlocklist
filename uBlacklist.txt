@@ -221,6 +221,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.reasonlabs.com/blog/*
 *://*.veepn.com/blog/*
 *://*.veepn.com/*/blog/*
+*://blog.limewire.com/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
