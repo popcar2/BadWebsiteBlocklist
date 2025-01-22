@@ -222,6 +222,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.veepn.com/blog/*
 *://*.veepn.com/*/blog/*
 *://blog.limewire.com/*
+*://*.simplified.com/blog/*
+*://help.simplified.com/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
