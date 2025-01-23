@@ -55,6 +55,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.dockuniverse.com/*
 *://*.9meters.com/*
 *://*.weetechsolution.com/blog/*
+*://*.driveshero.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
