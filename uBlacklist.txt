@@ -226,6 +226,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://help.simplified.com/*
 *://blog.cdkeys.com/*
 *://*.boostingfactory.com/*/blog/*
+*://*.isunshare.com/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
