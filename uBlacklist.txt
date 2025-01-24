@@ -228,6 +228,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://blog.cdkeys.com/*
 *://*.boostingfactory.com/*/blog/*
 *://*.isunshare.com/*
+*://*.skycoach.gg/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
