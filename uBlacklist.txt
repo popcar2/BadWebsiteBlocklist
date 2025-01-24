@@ -229,6 +229,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.boostingfactory.com/*/blog/*
 *://*.isunshare.com/*
 *://*.skycoach.gg/blog/*
+*://*.eloking.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
