@@ -230,6 +230,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.isunshare.com/*
 *://*.skycoach.gg/blog/*
 *://*.eloking.com/blog/*
+*://*.csgocaptain.com/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
