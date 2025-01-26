@@ -232,6 +232,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.skycoach.gg/blog/*
 *://*.eloking.com/blog/*
 *://*.csgocaptain.com/*
+*://*.visao.app/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
