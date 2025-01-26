@@ -233,6 +233,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.eloking.com/blog/*
 *://*.csgocaptain.com/*
 *://*.visao.app/*
+*://*.3dviewermax.com/guides/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
