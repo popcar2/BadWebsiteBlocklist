@@ -239,6 +239,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.starryai.com/blog/*
 *://*.cloudinary.com/guides/*
 *://*.pixcap.com/blog/*
+*://*.3d-ace.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
