@@ -235,6 +235,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.visao.app/*
 *://*.3dviewermax.com/guides/*
 *://*.pdfcandy.com/blog/*
+*://*.chat360.io/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
