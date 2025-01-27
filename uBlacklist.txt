@@ -240,6 +240,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.cloudinary.com/guides/*
 *://*.pixcap.com/blog/*
 *://*.3d-ace.com/blog/*
+*://resources.imagine.io/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
