@@ -243,6 +243,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://resources.imagine.io/blog/*
 *://*.selteco.com/blog/*
 *://*.cyber-fox.net/blog/*
+*://*.fetch.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
