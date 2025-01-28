@@ -58,6 +58,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.driveshero.com/*
 *://*.makb183.com/*
 *://*.linuxcapable.com/*
+*://*.outsourceit.today/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
