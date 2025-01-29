@@ -62,6 +62,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.codeparrot.ai/blogs/*
 *://*.trycatchdebug.net/*
 *://*.onexception.dev/*
+*://*.dinosaur.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
