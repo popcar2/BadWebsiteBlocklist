@@ -60,6 +60,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.linuxcapable.com/*
 *://*.outsourceit.today/*
 *://*.codeparrot.ai/blogs/*
+*://*.trycatchdebug.net/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
