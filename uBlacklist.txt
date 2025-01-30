@@ -63,6 +63,14 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.trycatchdebug.net/*
 *://*.onexception.dev/*
 *://*.dinosaur.org/*
+*://*.espn24.co.uk/*
+*://*.nbcsportz.com/*
+*://*.nbcsport.co.uk/*
+*://*.cbsnewz.com/*
+*://*.cbsnews2.com/*
+*://*.bbcsportss.co.uk/*
+*://*.247bbcnews.com/*
+*://*.foxnigeria.com.ng/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
