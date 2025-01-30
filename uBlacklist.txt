@@ -251,6 +251,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.cyber-fox.net/blog/*
 *://*.fetch.com/blog/*
 *://*.g2a.com/news/*
+*://*.kinsta.com/knowledgebase/*
+*://*.kinsta.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
