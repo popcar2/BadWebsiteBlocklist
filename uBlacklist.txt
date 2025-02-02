@@ -263,6 +263,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.g2a.com/news/*
 *://*.kinsta.com/knowledgebase/*
 *://*.kinsta.com/blog/*
+*://*.aiease.ai/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
