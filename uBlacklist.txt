@@ -72,6 +72,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.247bbcnews.com/*
 *://*.foxnigeria.com.ng/*
 *://*.notionrealm.com/*
+*://*.guides.ai/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
