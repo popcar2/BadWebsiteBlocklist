@@ -264,6 +264,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.kinsta.com/knowledgebase/*
 *://*.kinsta.com/blog/*
 *://*.aiease.ai/blog/*
+*://*.gravitywrite.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
