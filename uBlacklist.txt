@@ -267,6 +267,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.aiease.ai/blog/*
 *://*.gravitywrite.com/blog/*
 *://*.basedlabs.ai/articles/*
+*://*.hix.ai/hub/*
+*://*.hix.ai/*/hub/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
