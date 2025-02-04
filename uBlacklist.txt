@@ -271,6 +271,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.hix.ai/*/hub/*
 *://*.privacytools.io/*
 *://*.getgenie.ai/*
+*://*.magai.co/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
