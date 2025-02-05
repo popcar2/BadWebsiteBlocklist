@@ -75,6 +75,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.guides.ai/*
 *://*.songtell.com/*
 *://*.cybersecuritynews.com/*
+*://*.gbhackers.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
