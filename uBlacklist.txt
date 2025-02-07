@@ -274,6 +274,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.privacytools.io/*
 *://*.getgenie.ai/*
 *://*.magai.co/*
+*://*.whataportrait.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
