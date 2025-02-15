@@ -78,6 +78,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.gbhackers.com/*
 *://*.electropages.com/*
 *://*.grepper.com/*
+*://*.nextoai.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
