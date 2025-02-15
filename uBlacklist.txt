@@ -281,6 +281,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.mycvcreator.com/blog/*
 *://*.animotica.com/blog/*
 *://*.elegantthemes.com/blog/*
+*://*.dorik.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
