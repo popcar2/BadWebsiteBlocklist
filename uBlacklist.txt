@@ -79,6 +79,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.electropages.com/*
 *://*.grepper.com/*
 *://*.nextoai.com/*
+*://*.clrn.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
