@@ -290,3 +290,4 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://download.cnet.com/*
 *://*.ccm.net/*
 *://*.novastarled.com/*
+*://*.itorrents-igruha.org/*
