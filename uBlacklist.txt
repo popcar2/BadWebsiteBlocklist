@@ -81,6 +81,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.nextoai.com/*
 *://*.clrn.org/*
 *://*.mejoress.com/*
+*://*.lifeincoding.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
