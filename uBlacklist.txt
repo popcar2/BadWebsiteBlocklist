@@ -295,6 +295,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.quso.ai/resources/*
 *://*.vidyo.ai/resources/*
 
+*://*.emarketinghacks.com/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
