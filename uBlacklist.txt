@@ -286,6 +286,15 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.elegantthemes.com/blog/*
 *://*.dorik.com/blog/*
 
+*://*.quso.ai/alternatives/*
+*://*.vidyo.ai/alternatives/*
+*://*.quso.ai/blog/*
+*://*.vidyo.ai/blog/*
+*://*.quso.ai/social-media-terms/*
+*://*.vidyo.ai/social-media-terms/*
+*://*.quso.ai/resources/*
+*://*.vidyo.ai/resources/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
