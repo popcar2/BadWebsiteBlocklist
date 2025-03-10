@@ -85,6 +85,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.webdevtutor.net/*
 *://*.commandmasters.com/*
 *://*.commandexamples.com/*
+*://*.shell-tips.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
