@@ -89,6 +89,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.digitalocean.com/community/tutorials/*
 *://*.thelinuxcode.com/*
 *://*.hddfaqs.com/*
+*://*.privateproxyguide.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
