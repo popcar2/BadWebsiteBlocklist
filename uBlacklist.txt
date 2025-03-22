@@ -1,3 +1,4 @@
+# WARNING: Remove these first 6 lines if you're NOT using this for uBlacklist as the dashes may interfere with your filter!
 ---
 name: BadWebsiteBlocklist
 description: A filter that blocks spam, misleading, and malicious websites from appearing in search results!
