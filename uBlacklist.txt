@@ -1,9 +1,9 @@
-# WARNING: Remove these first 6 lines if you're NOT using this for uBlacklist as the dashes may interfere with your filter!
 ---
 name: BadWebsiteBlocklist
 description: A filter that blocks spam, misleading, and malicious websites from appearing in search results!
 homepage: https://github.com/popcar2/BadWebsiteBlocklist
 ---
+# WARNING: Remove these first 6 lines if you're NOT using this for uBlacklist as the dashes may interfere with your filter!
 
 # This blocklist is designed to be transparent and organized, find out why any domain here was blocked in the issues page:
 # https://github.com/popcar2/BadWebsiteBlocklist/issues?q=is:closed
