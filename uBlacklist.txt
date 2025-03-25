@@ -91,6 +91,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.thelinuxcode.com/*
 *://*.hddfaqs.com/*
 *://*.privateproxyguide.com/*
+*://*.dev2qa.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
