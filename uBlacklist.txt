@@ -315,3 +315,6 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.ccm.net/*
 *://*.novastarled.com/*
 *://*.itorrents-igruha.org/*
+*://*.orcaslicer.net/*
+*://*.orcaslicer.co/*
+*://*.orca-slicer.com/*
