@@ -93,6 +93,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.privateproxyguide.com/*
 *://*.dev2qa.com/*
 *://*.mazer.dev/*
+*://*.shiftychevre.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
