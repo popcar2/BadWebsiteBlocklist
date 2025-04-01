@@ -99,6 +99,12 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.deepseekv3.org/*
 *://*.deepseekv3.tech/*
 *://*.deepseeksai.com/*
+*://*.chat-gpt.com/*
+*://*.chatgbt.one/*
+*://*.chat-gpt.org/*
+*://*.chatopenai.de/*
+*://*.chatgpt.org/*
+*://*.chatgptdemo.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
