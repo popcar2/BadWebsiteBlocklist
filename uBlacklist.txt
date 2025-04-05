@@ -331,3 +331,4 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.orcaslicer.net/*
 *://*.orcaslicer.co/*
 *://*.orca-slicer.com/*
+*://*.filecr.com/*
