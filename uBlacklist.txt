@@ -94,17 +94,6 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.dev2qa.com/*
 *://*.mazer.dev/*
 *://*.shiftychevre.com/*
-*://*.deepseekap.org/*
-*://*.deepseekv3.net/*
-*://*.deepseekv3.org/*
-*://*.deepseekv3.tech/*
-*://*.deepseeksai.com/*
-*://*.chat-gpt.com/*
-*://*.chatgbt.one/*
-*://*.chat-gpt.org/*
-*://*.chatopenai.de/*
-*://*.chatgpt.org/*
-*://*.chatgptdemo.org/*
 *://*.therandomvibez.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
@@ -332,6 +321,17 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.orcaslicer.co/*
 *://*.orca-slicer.com/*
 *://*.filecr.com/*
+*://*.deepseekap.org/*
+*://*.deepseekv3.net/*
+*://*.deepseekv3.org/*
+*://*.deepseekv3.tech/*
+*://*.deepseeksai.com/*
+*://*.chat-gpt.com/*
+*://*.chatgbt.one/*
+*://*.chat-gpt.org/*
+*://*.chatopenai.de/*
+*://*.chatgpt.org/*
+*://*.chatgptdemo.org/*
 *://*.gemini-free.com/*
 *://*.gemini.talkai.info/*
 *://*.geminiai.ai/*
