@@ -332,3 +332,6 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.orcaslicer.co/*
 *://*.orca-slicer.com/*
 *://*.filecr.com/*
+*://*.gemini-free.com/*
+*://*.gemini.talkai.info/*
+*://*.geminiai.ai/*
