@@ -96,6 +96,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.shiftychevre.com/*
 *://*.therandomvibez.com/*
 *://*.virtualizare.net/*
+*://*.nerdburglars.net/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
