@@ -103,6 +103,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.linuxmadesimple.info/*
 *://*.cruiseship.cloud/*
 *://*.stepofweb.com/*
+*://*.physics-network.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
