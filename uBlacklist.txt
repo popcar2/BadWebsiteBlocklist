@@ -103,6 +103,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.cruiseship.cloud/*
 *://*.stepofweb.com/*
 *://*.physics-network.org/*
+*://*.olaf-hecker.de/*
+*://*.grande-famille.de/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
