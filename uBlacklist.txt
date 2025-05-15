@@ -320,6 +320,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.vidyo.ai/resources/*
 
 *://*.emarketinghacks.com/*
+*://*.diskgenius.com/how-to/*
+*://*.diskgenius.com/resource/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
