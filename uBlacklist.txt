@@ -107,6 +107,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.grande-famille.de/*
 *://*.mycplus.com/*
 *://*.worldhistoryedu.com/*
+*://*.flowercitycolor.com/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
