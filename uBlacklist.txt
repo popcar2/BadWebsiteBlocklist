@@ -106,6 +106,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.olaf-hecker.de/*
 *://*.grande-famille.de/*
 *://*.mycplus.com/*
+*://*.worldhistoryedu.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
