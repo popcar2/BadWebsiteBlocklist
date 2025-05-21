@@ -109,6 +109,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.worldhistoryedu.com/*
 *://*.flowercitycolor.com/blog/*
 *://*.devasking.com/*
+*://*.kitchendemy.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
