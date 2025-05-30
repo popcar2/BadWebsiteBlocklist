@@ -111,6 +111,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.devasking.com/*
 *://*.kitchendemy.com/*
 *://*.istocks.club/*
+*://*.top5best.com/*
+*://*.optimalproducts.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
