@@ -114,6 +114,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.top5best.com/*
 *://*.optimalproducts.com/*
 *://*.farmingdale-observer.com/*
+*://*.hatchjs.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
