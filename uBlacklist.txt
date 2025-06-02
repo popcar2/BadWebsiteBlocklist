@@ -113,6 +113,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.istocks.club/*
 *://*.top5best.com/*
 *://*.optimalproducts.com/*
+*://*.farmingdale-observer.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
