@@ -118,6 +118,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.10for10.uk/*
 *://*.splicedonline.com/*
 *://*.bettertechtips.com/*
+*://*.thetechedvocate.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
