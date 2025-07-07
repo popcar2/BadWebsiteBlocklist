@@ -119,6 +119,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.splicedonline.com/*
 *://*.bettertechtips.com/*
 *://*.thetechedvocate.org/*
+*://*.exchangetuts.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
