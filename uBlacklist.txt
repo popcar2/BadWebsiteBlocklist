@@ -364,3 +364,4 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.gemini-free.com/*
 *://*.gemini.talkai.info/*
 *://*.geminiai.ai/*
+*://*.w3schools.tech/*
