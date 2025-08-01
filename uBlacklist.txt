@@ -121,6 +121,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.thetechedvocate.org/*
 *://*.exchangetuts.com/*
 *://*.techbloat.com/*
+*://*.betanet.net/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
