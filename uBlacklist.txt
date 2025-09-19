@@ -122,6 +122,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.exchangetuts.com/*
 *://*.techbloat.com/*
 *://*.betanet.net/*
+*://*.softhandtech.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
