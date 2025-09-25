@@ -124,6 +124,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.betanet.net/*
 *://*.softhandtech.com/*
 *://*.soundproofgeek.com/*
+*://*.audiolgy.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
