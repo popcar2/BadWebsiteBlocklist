@@ -14,9 +14,9 @@ Another big goal of this repo is to try to be as organized as possible, [every w
 
 ## How to use
 
-1. Install the [uBlacklist extension](https://iorate.github.io/ublacklist/docs)
+1. Install the [uBlacklist extension](https://ublacklist.github.io/docs)
 2. Click on the extension in the browser toolbar, then click on "Options"
-3. Click on "Enable" next to other search engines, then enable it for the search engines you use
+3. Click on "SERPINFO" and enable search engines you use
 4. Scroll down to subscriptions and click "Add a subscription"
 5. Give it a name & add this as the URL: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
 
