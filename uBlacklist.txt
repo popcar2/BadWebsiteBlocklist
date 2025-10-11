@@ -125,6 +125,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.softhandtech.com/*
 *://*.soundproofgeek.com/*
 *://*.audiolgy.com/*
+*://*.zeitburg.de/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
@@ -368,3 +369,5 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.gemini.talkai.info/*
 *://*.geminiai.ai/*
 *://*.w3schools.tech/*
+*://*.vlc.de/*
+*://*.vlc-download.de/*
