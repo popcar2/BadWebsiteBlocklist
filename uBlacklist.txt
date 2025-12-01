@@ -130,6 +130,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.pupuweb.com/*
 *://*.codefinity.com/blog/*
 *://*.sqldocs.org/*
+*://*.ithy.com/article/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
