@@ -131,6 +131,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.codefinity.com/blog/*
 *://*.sqldocs.org/*
 *://*.ithy.com/article/*
+*://*.releasedate.info/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
