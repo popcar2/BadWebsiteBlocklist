@@ -132,6 +132,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.sqldocs.org/*
 *://*.ithy.com/article/*
 *://*.releasedate.info/*
+*://blog.neuronvm.com/*
+*://*.neuronvm.com/docs/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
