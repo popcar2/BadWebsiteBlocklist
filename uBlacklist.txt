@@ -135,6 +135,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://blog.neuronvm.com/*
 *://*.neuronvm.com/docs/*
 *://*.eatmorebutter.com/*
+*://*.numberanalytics.com/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
