@@ -140,6 +140,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.chefsresource.com/*
 *://*.coffeevogue.com/*
 *://*.meemawsrecipes.com/*
+*://*.nutri.it.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
