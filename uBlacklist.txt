@@ -139,6 +139,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.gametierlist.com/*
 *://*.chefsresource.com/*
 *://*.coffeevogue.com/*
+*://*.meemawsrecipes.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
