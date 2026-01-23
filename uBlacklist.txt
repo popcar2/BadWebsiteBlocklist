@@ -137,6 +137,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.eatmorebutter.com/*
 *://*.numberanalytics.com/blog/*
 *://*.gametierlist.com/*
+*://*.chefsresource.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
