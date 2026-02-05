@@ -144,6 +144,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.smallusefultips.com/*
 *://*.cyberinfoblog.com/*
 *://*.linuxvox.com/*
+*://*.sider.ai/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
