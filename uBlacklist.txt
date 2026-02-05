@@ -143,6 +143,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.nutri.it.com/*
 *://*.smallusefultips.com/*
 *://*.cyberinfoblog.com/*
+*://*.linuxvox.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
