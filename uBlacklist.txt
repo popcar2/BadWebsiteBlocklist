@@ -146,6 +146,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.linuxvox.com/*
 *://*.sider.ai/blog/*
 *://*.blockchain.news/*
+*://*.cyberpost.co/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
