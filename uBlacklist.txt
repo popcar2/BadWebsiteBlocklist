@@ -148,6 +148,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.blockchain.news/*
 *://*.cyberpost.co/*
 *://*.aeanet.org/*
+*://*.allthedifferences.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
