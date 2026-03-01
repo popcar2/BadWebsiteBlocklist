@@ -149,6 +149,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.cyberpost.co/*
 *://*.aeanet.org/*
 *://*.allthedifferences.com/*
+*://*.lightgungamer.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
