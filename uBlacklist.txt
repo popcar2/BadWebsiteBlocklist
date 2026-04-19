@@ -151,6 +151,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.allthedifferences.com/*
 *://*.lightgungamer.com/*
 *://*.itstorage.net/*
+*://*.mindstudio.ai/blog/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
