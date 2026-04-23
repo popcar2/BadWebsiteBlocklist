@@ -155,6 +155,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.botmonster.com/*
 *://*.lushbinary.com/blog/*
 *://*.grokipedia.com/page/*
+*://*.kommandotech.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
