@@ -168,6 +168,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.ohidur.com/blog/*
 *://*.onidel.com/blog/*
 *://*.besthub.dev/articles/*
+*://*.linux.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
