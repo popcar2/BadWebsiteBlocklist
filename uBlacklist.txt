@@ -424,3 +424,4 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.w3schools.tech/*
 *://*.vlc.de/*
 *://*.vlc-download.de/*
+*://*.hagezi.com/*
