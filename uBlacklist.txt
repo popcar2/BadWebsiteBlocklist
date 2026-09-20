@@ -171,6 +171,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.linux.com/*
 *://*.linuxsecurity.com/*
 *://*.itarian.com/blog/*
+*://*.uacred.com/*
+*://*.infozaem.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
