@@ -397,6 +397,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.revouninstaller.com/preview-log/*
 *://*.revouninstaller.com/user-tutorials/*
 
+*://*.bandnotify.com/tutorial/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
