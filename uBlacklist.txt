@@ -177,6 +177,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.kernel-internals.org/*
 *://*.geeky-gadgets.com/*
 *://*.shunauto.com/*
+*://*.koiknives.com/blogs/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
