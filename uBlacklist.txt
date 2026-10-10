@@ -178,6 +178,10 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.geeky-gadgets.com/*
 *://*.shunauto.com/*
 *://*.koiknives.com/blogs/*
+*://*.cambridgeanalytica.org/*
+*://*.historyinpolitics.org/*
+*://*.CMU.fr/*
+*://*.leravi.org/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
