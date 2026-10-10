@@ -411,6 +411,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.surfshark.com/blog/*
 *://*.cyberghostvpn.com/privacyhub/*
 *://*.linuxconfig.org/*
+*://*.heimdalsecurity.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
