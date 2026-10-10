@@ -437,3 +437,4 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.vlc-download.de/*
 *://*.hagezi.com/*
 *://*.protonge.com/*
+*://*.lidarr.org/*
