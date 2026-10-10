@@ -407,6 +407,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 
 *://*.bandnotify.com/tutorial/*
 *://*.blog.incogni.com/*
+*://*.expressvpn.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
