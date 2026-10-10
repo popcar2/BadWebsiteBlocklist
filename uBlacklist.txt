@@ -445,3 +445,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.hagezi.com/*
 *://*.protonge.com/*
 *://*.lidarr.org/*
+
+*://*.gowavebrowser.com/*
+*://*.wavebrowser.co/*
+*://*.wavebrowser.com/*
+*://*.convertwithwave.com/*
