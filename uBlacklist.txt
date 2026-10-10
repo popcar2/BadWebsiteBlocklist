@@ -175,6 +175,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.infozaem.com/*
 *://*.vibewire.com.au/*
 *://*.kernel-internals.org/*
+*://*.geeky-gadgets.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
