@@ -184,6 +184,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.leravi.org/*
 *://*.nailicy.com/*
 *://*.sciencetimes.com/*
+*://*.techtimes.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
